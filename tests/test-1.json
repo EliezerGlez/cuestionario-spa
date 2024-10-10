@@ -1,0 +1,165 @@
+{
+  "title": "Cuestionario sobre la Constitución Española",
+  "questions": [
+      {
+          "text": "La Constitución Española de 1978 consta de:",
+          "answers": [
+              {
+                  "text": "169 artículos, y se estructura en un Preámbulo, un Título Preliminar y 10 Títulos.",
+                  "isCorrect": true
+              },
+              {
+                  "text": "168 artículos, y se estructura en un Preámbulo, un Título Preliminar y 10 Capítulos.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "170 artículos, y se estructura en un Preámbulo, un Título Preliminar y 10 Capítulos.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "169 artículos, y se estructura en un Título Preliminar y 10 Capítulos.",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "text": "El Título I de la Constitución Española \"De los derechos y deberes fundamentales\" comprende los artículos:",
+          "answers": [
+              {
+                  "text": "Artículo 10 al 55.",
+                  "isCorrect": true
+              },
+              {
+                  "text": "Artículo 11 al 55.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Artículo 15 al 29.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Artículo 1 al 9.",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "text": "El Título I de la Constitución Española, en su Capítulo II, contiene:",
+          "answers": [
+              {
+                  "text": "Dos Secciones, respectivamente tituladas \"De los derechos fundamentales y de las libertades públicas\" y \"De los derechos y deberes de los ciudadanos\".",
+                  "isCorrect": true
+              },
+              {
+                  "text": "Dos Secciones, respectivamente tituladas \"De los españoles y los extranjeros\" y \"De los derechos y deberes de los ciudadanos\".",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Tres Secciones, respectivamente tituladas \"De los españoles y los extranjeros\", \"De los derechos y libertades\" y \"De los deberes de los ciudadanos\".",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Un solo artículo, que proclama la igualdad de todos ante la ley.",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "text": "La Constitución Española de 1978 (en adelante CE) se compone de:",
+          "answers": [
+              {
+                  "text": "10 títulos, 169 artículos, 4 disposiciones adicionales, 9 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "11 títulos, 169 artículos, 4 disposiciones adicionales, 9 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.",
+                  "isCorrect": true
+              },
+              {
+                  "text": "1 título preliminar, 169 artículos, 4 disposiciones adicionales, 9 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "11 títulos, 169 artículos, 9 disposiciones adicionales, 4 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "text": "En la Constitución española, los derechos y deberes fundamentales:",
+          "answers": [
+              {
+                  "text": "Están regulados en el Título I, del artículo 10 al 55.",
+                  "isCorrect": true
+              },
+              {
+                  "text": "Están regulados en el Título I, del artículo 14 al 28.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Están regulados en el Título I, del art. 15 al 29.",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "text": "En la Constitución española, los derechos fundamentales y libertades públicas:",
+          "answers": [
+              {
+                  "text": "Están regulados en el Título I, del artículo 10 al 55.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Están regulados en el Título I, del artículo 14 al 28.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Están regulados en el Título I, del art. 15 al 29.",
+                  "isCorrect": true
+              }
+          ]
+      },
+      {
+          "text": "La Constitución Española de 1978 consta de la siguiente estructura:",
+          "answers": [
+              {
+                  "text": "Preámbulo, diez Títulos, cuatro Disposiciones Adicionales, nueve Disposiciones Transitorias, una Disposición Derogatoria, y una Disposición final.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Once Títulos, cuatro Disposiciones Adicionales, ocho Disposiciones Transitorias, una Disposición Derogatoria y una Disposición Final.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Preámbulo, once Títulos, cuatro Disposiciones adicionales, nueve Disposiciones transitorias, una Disposición derogatoria y una Disposición final.",
+                  "isCorrect": true
+              },
+              {
+                  "text": "Preámbulo, Título Preliminar, Títulos del I al X, Disposiciones Transitorias (1ª a 9ª), Disposición derogatoria (única) y Disposición final (única).",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "text": "La Constitución Española de 1978 recoge los derechos fundamentales y las libertades públicas en:",
+          "answers": [
+              {
+                  "text": "Título III, Capítulo Primero, Sección 2ª.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Artículos del 14 al 30 del Título II, Capítulo Segundo.",
+                  "isCorrect": false
+              },
+              {
+                  "text": "Los artículos 15 al 29 del Título I, Capítulo Segundo, Sección 1ª.",
+                  "isCorrect": true
+              },
+              {
+                  "text": "Artículos del 15 al 29 del Título I, Capítulo Primero, Sección 2ª.",
+                  "isCorrect": false
+              }
+          ]
+      }
+  ]
+}
